@@ -1,6 +1,6 @@
 This repositry is a backup of https://github.com/OrcaSlicer/OrcaSlicer
 
-1201 doesn't exist in canada, comee after me bambulab if you dare. you can't win this fight
+1201 doesn't exist in canada, come after me bambulab if you dare. you can't win this fight
 
 <div align="center">
 
