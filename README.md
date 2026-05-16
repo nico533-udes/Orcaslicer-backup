@@ -1,4 +1,4 @@
-This repositry is a backup of https://github.com/OrcaSlicer/OrcaSlicer
+This repositry is a backup of https://github.com/jarczakpawel/OrcaSlicer-bambulab
 
 1201 doesn't exist in canada, come after me bambulab if you dare. you can't win this fight
 
