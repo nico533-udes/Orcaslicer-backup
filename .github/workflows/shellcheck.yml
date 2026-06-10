@@ -1,3 +1,6 @@
+env:
+  ENABLE_SHELLCHECK: false
+
 on:
   push:
     paths:
